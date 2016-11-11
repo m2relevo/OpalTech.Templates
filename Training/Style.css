@@ -8,7 +8,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: crimson;
+    color: rgb(34, 165, 125);
     font-family: monospace;
 }
 
@@ -24,15 +24,15 @@ p6 {
 }
 
 p1 {
-    color: blueviolet
+    color: rgba(138, 43, 226, 0.67)
 }
 
 p2 {
-    color: chocolate
+    color: rgb(178, 201, 158)
 }
 
 p3 {
-    color: darkblue
+    color: rgb(84, 84, 250)
 }
 
 h4 {
